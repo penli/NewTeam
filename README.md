@@ -1,2 +1,4 @@
 # NewTeam
-The NewTeam build
+#The NewTeam build
+Hi,NewTeam
+the first project is created!
