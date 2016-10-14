@@ -1,4 +1,4 @@
 # NewTeam
 #The NewTeam build
-Hi,NewTeam
-the first project is created!
+2016.10.14 add ffmpeg 3.1.4 version project
+2016.10.14 add SDL2 2.0.4 version project
